@@ -1,3 +1,4 @@
+// PROJECT : Bank managing system.
 #include<stdio.h>
 #include<string.h>
 #define MAX_ACCOUNT 100
